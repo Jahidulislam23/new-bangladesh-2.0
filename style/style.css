@@ -1,3 +1,4 @@
+
 /* line-1 */
 
 .bangladesh-1{ 
@@ -11,14 +12,17 @@
     color: green;
     font-size: 20px;
     border-color: green;
+    border-radius: 5px;
 }
 /* line-2 */
 .size{
    color: rgb(175, 177, 183);
-font-size:20px ;
+    font-size:20px ;
+    
 }
 .font-size{
     font-size: 40px;
+   
 }
 .btn-color{
     color: white;
@@ -26,6 +30,7 @@ font-size:20px ;
     font-size: 20px;
     border-color: green;
     text-color:green;
+    border-radius: 5px;
 }
 .bangladesh-2{
     display: flex;
@@ -33,6 +38,7 @@ font-size:20px ;
     background-color: aquamarine;
     margin: 0px 200px 0px 200px ;
 }
+
 /* line-3 */
 
 .bold{
@@ -73,19 +79,25 @@ font-size:20px ;
     color: white;
     background-color:dodgerblue;
     font-size: 20px;
-    border-color:dodgerblue;
+    border-color:darkviolet;
+    border-radius: 5px;
+    border-radius: darkviolet;
 }
 .btn2-text{
     color: white;
     background-color:green;
     font-size: 20px;
-    border-color:green;
+    border-color: darksalmon;
+    border-radius: 5px;
+    border-radius:  darksalmon;
 }
 .btn3-text{
     color: white;
     background-color:firebrick;
     font-size: 20px;
-    border-color:firebrick;
+    border-color:chocolate;
+    border-radius: 5px;
+    border-radius:chocolate ;
 }
 .icon1{
     background-color: darkviolet;
@@ -106,7 +118,115 @@ font-size:20px ;
     background-color:whitesmoke;
     background-image: url('../assets/quote-bg.png');
     background-repeat: no-repeat;
+    width: 1250px;
+    height: 200px;
+    padding: 5px;
+   
+ 
+}
+/* line-6 */
+
+
+.btn-yes{
+    color:black;
+    background-color: lightskyblue;
+    font-size:15px ;
+    text-align: center;
+}
+
+
+.table{
+    text-align: center;
+    color: #333;
+}
+.table th,table td{
+    border: 1px solid #ddd;
+    text-align: left;
+    border-radius: 0px;
+}
+.table th{
+    background-color: #f2f2f2;
+    color: #333;
+
+}
+.body{
+    font-family: arial,sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+}
+.ceanter{
+    margin: 0px 200px 0px 200px ;
+    background-color: whitesmoke;
     width: 1100px;
     height: 300px;
  
+   
+}
+.color{
+background-color: lightskyblue;
+}
+.Questions{
+    text-align: left;
+}
+.new{
+    margin: 0px 200px 0px 200px ;
+}
+/* line-7 */
+.bangladesh-satelite{
+    display: flex;
+    gap: 40px;
+}
+.bangladesh-satelite1{
+    margin: 0px 200px 0px 200px ;
+    background-color: #ddd;
+}
+.bangladesh-satelite2{
+    margin: 0px 200px 0px 200px ;
+    background-color: #ddd;
+    padding: 25px;
+    border: 40px;
+}
+.bangladesh{
+    display: flex;
+}
+/* line-8 */
+.taka{
+    text-align: center;
+   
+}
+.taka-number{
+    padding: 25px;
+    display: flex;
+    gap:30px;
+    justify-content: space-evenly;
+  
+}
+.number{
+    border: 2px solid black;
+    padding: 20px;
+    font-size:18px;
+    margin: 10px 0;
+    display: inline;
+    background-color: aqua;
+   
+}
+.taka1{
+    background-color: #f2f2f2;
+}
+.amount{
+    text-align: center;
+}
+.btn{
+    width: 830px;
+    height: 50px;
+    background-color: white;
+    font-size: 15px;
+    font: 400;
+}
+.done{
+   text-align: center;
+   padding: 25px;
+}
+.bangladesh-5{
+    margin: 0px 200px 0px 200px ;
 }
